@@ -8,7 +8,6 @@
 
 - Nationality: 🇰🇪
 - Personal interests: ⚽ 🥊 💪🏽 🏕 🏍 💻 🛫
-- Countries I've visited: 🇨🇦 🇹🇭 🇲🇾 🇰🇭 🇰🇪
 - Current location: 📍 Nairobi , Kenya
 
 🌎 Check my [portfolio](https://gatsby-profile.vercel.app/)
