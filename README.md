@@ -10,5 +10,5 @@
 - Personal interests: ⚽ 🥊 💪🏽 🏕 🏍 💻 🛫
 - Current location: 📍 Nairobi , Kenya
 
-🌎 Check my [portfolio](https://gatsby-profile.vercel.app/)
+🌎 Check my [portfolio](https://ivorush.netlify.app/)
 
